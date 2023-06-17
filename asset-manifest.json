@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Appli-Meteo-React/static/css/main.a837c1f8.css",
+    "main.js": "/Appli-Meteo-React/static/js/main.b317dabc.js",
+    "static/media/bg.jpg": "/Appli-Meteo-React/static/media/bg.fe6cd0d8bcd5c44cd7c0.jpg",
+    "index.html": "/Appli-Meteo-React/index.html",
+    "main.a837c1f8.css.map": "/Appli-Meteo-React/static/css/main.a837c1f8.css.map",
+    "main.b317dabc.js.map": "/Appli-Meteo-React/static/js/main.b317dabc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a837c1f8.css",
+    "static/js/main.b317dabc.js"
+  ]
+}
